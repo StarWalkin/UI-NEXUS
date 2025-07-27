@@ -1,0 +1,94 @@
+{
+  "datetime": {
+    "disable_auto_settings": true,
+    "use_24_hour_format": true,
+    "timezone": "Asia/Shanghai",
+    "datetime": {
+      "year": 2024,
+      "month": 4,
+      "day": 15,
+      "hour": 14,
+      "minute": 30,
+      "second": 0
+    }
+  },
+  "contacts": {
+    "clear_contacts": true,
+    "add_contacts": [
+      {
+        "name": "EventOrg",
+        "number": "+15551234567"
+      },
+      {
+        "name": "Work Colleague",
+        "number": "+15559876543"
+      },
+      {
+        "name": "Family",
+        "number": "+15558765432"
+      }
+    ]
+  },
+  "sms": {
+    "clear_messages": true,
+    "disable_notifications_during_setup": true,
+    "add_messages": [
+      {
+        "number": "+15551234567",
+        "text": "You're invited to our Annual Spring Gala on April 25, 2024 at 18:30. Please RSVP as soon as possible. We look forward to seeing you there!",
+        "is_received": true
+      },
+      {
+        "number": "+15551234567",
+        "text": "The venue address is 123 Main Street, Downtown. Formal attire required.",
+        "is_received": true
+      },
+      {
+        "number": "+15559876543",
+        "text": "Don't forget about our project deadline on Friday.",
+        "is_received": true
+      },
+      {
+        "number": "+15558765432",
+        "text": "Are we still meeting for dinner this weekend?",
+        "is_received": true
+      },
+      {
+        "number": "+15558765432",
+        "text": "Yes, Sunday at 6pm works for me.",
+        "is_received": false
+      }
+    ],
+    "add_random_conversations": true,
+    "random_conversation_count": 2
+  },
+  "calendar": {
+    "clear_events": true,
+    "add_events": [
+      {
+        "title": "Quarterly Review Meeting",
+        "description": "Present department performance for Q1",
+        "location": "Conference Room B",
+        "start_time": "2024-04-25T18:30:00",
+        "duration_mins": 120
+      },
+      {
+        "title": "Dentist Appointment",
+        "description": "Regular check-up",
+        "location": "City Dental Clinic",
+        "start_time": "2024-04-20T10:00:00",
+        "duration_mins": 60
+      },
+      {
+        "title": "Weekly Team Meeting",
+        "description": "Status updates and planning",
+        "location": "Meeting Room A",
+        "start_time": "2024-04-17T14:00:00",
+        "duration_mins": 60
+      }
+    ]
+  },
+  "system": {
+    "close_all_apps": true
+  }
+} 

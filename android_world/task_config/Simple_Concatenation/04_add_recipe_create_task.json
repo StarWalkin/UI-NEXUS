@@ -1,0 +1,70 @@
+{
+  "datetime": {
+    "disable_auto_settings": true,
+    "use_24_hour_format": true,
+    "timezone": "Asia/Shanghai",
+    "datetime": {
+      "year": 2024,
+      "month": 4,
+      "day": 15,
+      "hour": 14,
+      "minute": 30,
+      "second": 0
+    }
+  },
+  "recipe": {
+    "clear_recipes": true,
+    "add_recipes": [
+      {
+        "title": "Scrambled Eggs",
+        "description": "Simple scrambled eggs",
+        "servings": "1 serving",
+        "preparationTime": "5 mins",
+        "ingredients": "2 eggs\nMilk\nSalt\nButter",
+        "directions": "Whisk eggs, milk, salt. Cook in butter.",
+        "favorite": 0
+      },
+      {
+        "title": "Pasta Salad",
+        "description": "Quick and refreshing pasta salad",
+        "servings": "4 servings",
+        "preparationTime": "15 mins",
+        "ingredients": "250g pasta\n1 cucumber, diced\n1 bell pepper, diced\n10 cherry tomatoes, halved\n50g feta cheese\nOlive oil dressing",
+        "directions": "1. Cook pasta\n2. Chop vegetables\n3. Combine ingredients\n4. Toss with dressing",
+        "favorite": 1
+      },
+      {
+        "title": "Vegetable Soup",
+        "description": "Hearty vegetable soup",
+        "servings": "6 servings",
+        "preparationTime": "40 mins",
+        "ingredients": "1 onion\n2 carrots\n2 celery stalks\n4 cups vegetable broth\n1 can diced tomatoes\n1 cup mixed vegetables\nSalt and pepper",
+        "directions": "1. Sauté onion, carrots, celery\n2. Add broth and tomatoes\n3. Simmer\n4. Add mixed vegetables\n5. Season to taste",
+        "favorite": 0
+      }
+    ]
+  },
+  "tasks": {
+    "clear_tasks": true,
+    "add_tasks": [
+      {
+        "title": "Schedule dentist appointment",
+        "importance": 2,
+        "notes": "Call Dr. Smith's office for a checkup."
+      },
+      {
+        "title": "Submit expense report",
+        "importance": 3,
+        "due_date": "2024-04-18",
+        "notes": "Attach all receipts for March travel."
+      },
+      {
+        "title": "Water the plants",
+        "importance": 1
+      }
+    ]
+  },
+  "system": {
+    "close_all_apps": true
+  }
+} 

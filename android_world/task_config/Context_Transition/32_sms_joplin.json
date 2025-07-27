@@ -1,0 +1,114 @@
+{
+  "datetime": {
+    "disable_auto_settings": true,
+    "use_24_hour_format": true,
+    "timezone": "Asia/Shanghai",
+    "datetime": {
+      "year": 2024,
+      "month": 4,
+      "day": 15,
+      "hour": 14,
+      "minute": 30,
+      "second": 0
+    }
+  },
+  "contacts": {
+    "clear_contacts": true,
+    "add_contacts": [
+      {
+        "name": "Vendor A",
+        "number": "555-1111"
+      },
+      {
+        "name": "Vendor B",
+        "number": "555-2222"
+      },
+      {
+        "name": "Supplier C",
+        "number": "555-3333"
+      },
+      {
+        "name": "Warehouse",
+        "number": "555-4444"
+      }
+    ]
+  },
+  "sms": {
+    "clear_messages": true,
+    "add_messages": [
+      {
+        "number": "555-1111",
+        "text": "Your order #A87652 has been processed and will be shipped today.",
+        "is_received": true
+      },
+      {
+        "number": "555-2222",
+        "text": "Thank you for your order with Vendor B. Your order #VB29873 has been confirmed.",
+        "is_received": true
+      },
+      {
+        "number": "555-2222",
+        "text": "Update: Your order #VB29873 has been cancelled due to stock issues.",
+        "is_received": true
+      },
+      {
+        "number": "555-2222",
+        "text": "We apologize for the inconvenience. Your new order #VB30145 has been processed and will be shipped tomorrow.",
+        "is_received": true
+      },
+      {
+        "number": "555-2222",
+        "text": "Thank you for the update. Please keep me informed about the shipping status.",
+        "is_received": false
+      },
+      {
+        "number": "555-3333",
+        "text": "Supplier C: Your monthly inventory report is now available for review.",
+        "is_received": true
+      },
+      {
+        "number": "555-4444",
+        "text": "Warehouse: The new supplies have arrived. Please schedule pickup at your convenience.",
+        "is_received": true
+      }
+    ]
+  },
+  "joplin": {
+    "clear_notes": true,
+    "add_folders": [
+      {
+        "title": "Work"
+      },
+      {
+        "title": "Orders"
+      },
+      {
+        "title": "Personal"
+      }
+    ],
+    "add_notes": [
+      {
+        "title": "Vendor Contacts",
+        "body": "# Vendor Contact Information\n\n## Main Suppliers\n\n- Vendor A: 555-1111, contact: Sarah Johnson\n- Vendor B: 555-2222, contact: Michael Brown\n- Supplier C: 555-3333, contact: David Wilson\n- Warehouse: 555-4444, contact: Lisa Thompson\n\n## Order Process\n\nAll orders should be documented in the OrderRecord.md file with the following information:\n- Order number\n- Date\n- Vendor\n- Amount\n- Expected delivery",
+        "folder": "Orders",
+        "is_todo": false
+      },
+      {
+        "title": "Meeting Notes",
+        "body": "# Team Meeting - April 10, 2024\n\n## Agenda\n\n1. Q2 Goals\n2. Project Updates\n3. Vendor Relations\n\n## Action Items\n\n- Follow up with vendors on pending orders\n- Review inventory levels\n- Schedule quarterly review meeting",
+        "folder": "Work",
+        "is_todo": false
+      },
+      {
+        "title": "Task List",
+        "body": "- Update order records\n- Contact vendors about delivery delays\n- Prepare monthly report\n- Schedule team meeting",
+        "folder": "Work",
+        "is_todo": true,
+        "todo_completed": false
+      }
+    ]
+  },
+  "system": {
+    "close_all_apps": true
+  }
+} 

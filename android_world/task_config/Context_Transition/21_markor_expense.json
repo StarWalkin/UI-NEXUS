@@ -1,0 +1,49 @@
+{
+  "datetime": {
+    "disable_auto_settings": true,
+    "use_24_hour_format": true,
+    "timezone": "Asia/Shanghai",
+    "datetime": {
+      "year": 2024,
+      "month": 4,
+      "day": 15,
+      "hour": 14,
+      "minute": 30,
+      "second": 0
+    }
+  },
+  "markor": {
+    "clear_notes": true,
+    "add_notes": [
+      {
+        "title": "receipt.md",
+        "content": "Item,Category,Amount,Date\nCoffee,Food,3.50,2024-04-15\nLunch,Food,12.75,2024-04-15",
+        "folder": ""
+      }
+    ]
+  },
+  "expense": {
+    "clear_expenses": true,
+    "add_expenses": [
+      {
+        "name": "Movie Tickets",
+        "amount": "45.00",
+        "category": 4,
+        "note": "Weekend entertainment with friends",
+        "created_date": 1712307600000,
+        "modified_date": 1712307600000
+      },
+      {
+        "name": "Taxi Ride",
+        "amount": "32.50",
+        "category": 5,
+        "note": "Airport transportation",
+        "created_date": 1712566800000,
+        "modified_date": 1712566800000
+      }
+    ]
+  },
+  "system": {
+    "close_all_apps": true
+  }
+} 

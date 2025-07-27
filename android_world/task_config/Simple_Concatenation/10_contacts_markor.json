@@ -1,0 +1,77 @@
+{
+  "datetime": {
+    "disable_auto_settings": true,
+    "use_24_hour_format": true,
+    "timezone": "Asia/Shanghai",
+    "datetime": {
+      "year": 2024,
+      "month": 4,
+      "day": 15,
+      "hour": 14,
+      "minute": 30,
+      "second": 0
+    }
+  },
+  "contacts": {
+    "clear_contacts": true,
+    "add_contacts": [
+      {
+        "name": "Jane Smith",
+        "number": "999888777"
+      },
+      {
+        "name": "Michael Johnson",
+        "number": "444555666"
+      },
+      {
+        "name": "Sarah Williams",
+        "number": "777123456"
+      },
+      {
+        "name": "Alex Rodriguez",
+        "number": "333222111"
+      }
+    ]
+  },
+  "markor": {
+    "clear_notes": true,
+    "add_folders": [
+      {
+        "title": "Templates"
+      },
+      {
+        "title": "Archives"
+      }
+    ],
+    "add_notes": [
+      {
+        "title": "important_reminder.md",
+        "content": "# Important Reminder\n\nDon't forget to attend the team meeting at 3 PM on Friday.\nAlso, review the quarterly report before Monday.",
+        "folder": "Templates"
+      },
+      {
+        "title": "shopping_list.md",
+        "content": "# Shopping List\n\n- Milk\n- Bread\n- Eggs\n- Fruit\n- Vegetables",
+        "folder": ""
+      }
+    ]
+  },
+  "files": {
+    "create_folders": [
+      "Documents/Reference",
+      "Download/Temp"
+    ],
+    "add_files": [
+      {
+        "name": "meeting_agenda.txt",
+        "folder": "Documents/Reference",
+        "content": "Meeting Agenda:\n1. Project updates\n2. Budget review\n3. Timeline adjustments\n4. Q&A"
+      }
+    ]
+  },
+  "system": {
+    "close_all_apps": true,
+    "brightness": "max",
+    "wifi": "on"
+  }
+} 
